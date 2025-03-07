@@ -256,6 +256,9 @@ const Question = ({ type, mongoUserId, questionDetails }: Props) => {
           type="submit"
           className="primary-gradient w-fit !text-light-900"
           disabled={isSubmitting}
+          onClick={
+            form.handleSubmit(onSubmit)
+          }
         >
           {isSubmitting ? (
             <>{type === "Edit" ? "Editing..." : "Posting..."}</>
