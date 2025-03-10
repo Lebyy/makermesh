@@ -72,11 +72,11 @@ const Mobile = () => {
             src="/assets/images/site-logo.svg"
             width={23}
             height={23}
-            alt="Forum"
+            alt="makermesh"
           />
 
           <p className="h2-bold text-dark100_light900 font-spaceGrotesk">
-            Forum
+            makermesh
           </p>
         </Link>
         <div>

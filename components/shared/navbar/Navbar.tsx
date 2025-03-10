@@ -13,11 +13,11 @@ const Navbar = () => {
           src="/assets/images/site-logo.svg"
           width={23}
           height={23}
-          alt="Forum"
+          alt="makermesh"
         />
 
         <p className="h2-bold font-spaceGrotesk text-dark-100 dark:text-light-900 max-sm:hidden">
-          Forum
+          Makermesh
         </p>
       </Link>
 

@@ -19,7 +19,7 @@ export async function generateMetadata({
   const user = await getUserById({ userId: params.id });
 
   return {
-    title: `${user.username}'s Profile - Forum`,
+    title: `${user.username}'s Profile - makermesh`,
   };
 }
 

@@ -22,7 +22,7 @@ export async function generateMetadata({
   const question = await getQuestionById({ questionId: params.id });
 
   return {
-    title: `"${question.title}" - Forum`,
+    title: `"${question.title}" - makermesh`,
   };
 }
 

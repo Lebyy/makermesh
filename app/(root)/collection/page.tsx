@@ -10,7 +10,7 @@ import { auth } from "@clerk/nextjs/server";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Collection - Forum",
+  title: "Collection - makermesh",
 };
 export default async function Collection({ searchParams }: SearchParamsProps) {
   const { userId } = auth();

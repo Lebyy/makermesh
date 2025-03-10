@@ -10,7 +10,7 @@ import { Job } from "@/types";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Jobs - Forum",
+  title: "Jobs - makermesh",
 };
 interface Props {
   searchParams: {

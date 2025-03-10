@@ -4,7 +4,7 @@
 
 ## About MakerMesh
 
-MakerMesh is designed as a secure, private forum where:
+MakerMesh is designed as a secure, private makermesh where:
 - **Creators** can showcase their work.
 - **Developers** can share code snippets and technical guides.
 - **Enthusiasts** can discuss project schematics and ideas.
@@ -14,7 +14,7 @@ This platform brings together a vibrant community of makers who are passionate a
 ## Key Features
 
 - **Community Sharing:** Post and discuss everything from source code to detailed project schematics.
-- **Interactive Forums:** Engage in meaningful discussions with like-minded individuals.
+- **Interactive makermeshs:** Engage in meaningful discussions with like-minded individuals.
 - **Resource Library:** Access a rich repository of projects and technical resources.
 - **Privacy & Security:** Built as a private platform to ensure a trusted and focused community environment.
 
