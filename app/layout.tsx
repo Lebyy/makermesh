@@ -21,7 +21,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "makermesh",
+  title: "MakerMesh",
   description: "Supercharge Your Code: Collaborative Q&A for Developers.",
   icons: {
     icon: "/assets/images/site-logo.svg",

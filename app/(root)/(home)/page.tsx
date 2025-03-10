@@ -17,7 +17,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Home - makermesh",
+  title: "Home - MakerMesh",
 };
 
 export default async function Home({ searchParams }: SearchParamsProps) {

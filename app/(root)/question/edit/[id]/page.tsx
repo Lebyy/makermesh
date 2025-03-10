@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Edit Question - makermesh",
+  title: "Edit Question - MakerMesh",
 };
 
 const Page = async ({ params }: ParamsProps) => {

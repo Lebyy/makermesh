@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Tags - makermesh",
+  title: "Tags - MakerMesh",
 };
 
 const Page = async ({ searchParams }: SearchParamsProps) => {

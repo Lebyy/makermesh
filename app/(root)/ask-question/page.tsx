@@ -5,7 +5,7 @@ import { Metadata } from "next";
 import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
-  title: "Ask a Question — makermesh",
+  title: "Ask a Question — MakerMesh",
 };
 
 const Page = async () => {
