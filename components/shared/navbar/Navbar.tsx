@@ -17,7 +17,7 @@ const Navbar = () => {
         />
 
         <p className="h2-bold font-spaceGrotesk text-dark-100 dark:text-light-900 max-sm:hidden">
-          Makermesh
+          MakerMesh
         </p>
       </Link>
 
